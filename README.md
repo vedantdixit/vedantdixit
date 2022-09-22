@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedantdixit
 - 👀 I’m interested in Programming and web development. I'm also a pro guitarist.
-- 🌱 I’m currently learning Java, Python, C++, C, C#, React JS, JS, Database Management, etc.
+- 🌱 I’m currently learning Java, Python, C++, C, C#, React JS, JS, Database Management, mongo DB, Angular, DJango, Flask, etc.
 
 
 <!---
